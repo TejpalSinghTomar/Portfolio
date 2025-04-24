@@ -34,5 +34,6 @@ If you'd like to get in touch, here are some ways to reach me:
 
 Here is a preview of the homepage of my portfolio website:
 
-![Portfolio Screenshot](./images/Screenshot.png.png)
+![Screenshot png](https://github.com/user-attachments/assets/af94dd04-66ab-42f9-947c-19976ee12907)
+
 > The portfolio is fully responsive and designed using HTML, CSS, and Bootstrap.
