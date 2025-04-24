@@ -30,6 +30,9 @@ If you'd like to get in touch, here are some ways to reach me:
 - **LinkedIn**: https://www.linkedin.com/in/tejpal-singh-7b4439316
 - **GitHub**: https://github.com/TejpalSinghTomar
 
-## License
+## 🖼️ Screenshot
 
-This portfolio is open source and available under the [MIT License](LICENSE).
+Here is a preview of the homepage of my portfolio website:
+
+![Portfolio Screenshot](./images/Screenshot.png)
+> The portfolio is fully responsive and designed using HTML, CSS, and Bootstrap.
